@@ -1,19 +1,18 @@
 * 👋 I'm Ahmet
 * 💻 Operating Systems:
-    * 🐧 Arch Linux
     * 🪟 Windows
 * 👨‍💻 Languages:
     * 🐍 Python
-    * ☕ Java (Low Basic)
-    * 🌐 JavaScript (basic)
+    * ☕ Java 
+    * 🌐 JavaScript
     * 🛠️ C#
-    * ⚙️ C++ (Arduino / Deneyap Kart 1A)
+    * ⚙️ C++ (Arduino / ESP)
 * 🌎 Web:
     * </> HTML
     * 🎨 CSS
 * 🚀 Working On Improving:
-    * ✨ JavaScript (DOM / ES6)
-    * 📱 Java/Kotlin Mobile App
+    * ✨ JavaScript 
+    * 📱 Java Mobile App
     * 🤯 Regular Expressions
 * 📬 Contact:
     * 📧 E-mail: kaizen@ralite.dev
