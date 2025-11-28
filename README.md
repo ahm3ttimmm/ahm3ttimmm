@@ -16,5 +16,3 @@
     * 🤯 Regular Expressions
 * 📬 Contact:
     * 📧 E-mail: kaizen@ralite.dev
-    * 💬 Telegram: [t.me/Kaizenim](https://t.me/Kaizenim)
-    * 🌐Matrix:[kaizennnm](https://matrix.to/#/@kaizennim:matrix.org)
