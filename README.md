@@ -4,9 +4,7 @@
 * 👨‍💻 Languages:
     * 🐍 Python
     * ☕ Java 
-    * 🌐 JavaScript
     * 🛠️ C#
-    * ⚙️ C++ (Arduino / ESP)
 * 🌎 Web:
     * </> HTML
     * 🎨 CSS
